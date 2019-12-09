@@ -7,4 +7,5 @@
 
 * [draft 1](test-group/draft-1-sub/README.md)
   * [draft 1 sub](test-group/draft-1-sub/draft-1-sub-1.md)
+* [testpage 3](testpage-3.md)
 
